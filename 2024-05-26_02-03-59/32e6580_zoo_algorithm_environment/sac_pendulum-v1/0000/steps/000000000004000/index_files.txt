@@ -1,3 +1,0 @@
-checkpoint.h5
-checkpoint.h
-trajectories.json.gz
